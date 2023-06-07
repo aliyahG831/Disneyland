@@ -5,3 +5,9 @@ h1{color: White}
 h4{font-size: 20px}
 #poop{border: 5px groove black}
 #slay{border:5px groove black}
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
